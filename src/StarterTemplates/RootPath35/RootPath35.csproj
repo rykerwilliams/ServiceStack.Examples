@@ -103,7 +103,9 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>36956</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost/RootPath35</IISUrl>
+          <IISUrl>http://localhost:8085/RootPath35</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>http://localhost:8085/RootPath35</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
