@@ -108,7 +108,9 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>11809</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost/Backbone.Todos</IISUrl>
+          <IISUrl>http://localhost:8085/Backbone.Todos</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>http://localhost:8085/Backbone.Todos</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
